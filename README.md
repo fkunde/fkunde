@@ -30,14 +30,20 @@
 <img alt="md" src="https://fkun.tech/img/labels/Markdown.svg">
  <img alt="php" src="https://fkun.tech/img/labels/PHP74.svg">
 </p>
-<img align="right" style="margin-right:25px; margin-top:-40px;" width="200px" src="https://fkun.tech/img/FKUN_LOGO.svg" />
+<!-- <img align="right" style="margin-right:25px; margin-top:-40px;" width="200px" src="https://fkun.tech/img/FKUN_LOGO.svg" /> -->
 
 ### FKUN's Development Environment
 <p align="left">
   <img alt="vscode" src="https://fkun.tech/img/labels/vscode.svg">
 </p>
 
-### FKUN's Info
+<div align="right" style="margin-top:-100px; margin">
+<h3>FKUN's Info </h3> 
+  <p>
+ Speaking Languages: 中文 Deutsch English 日本語
+ <br>
+ Location: Germany  
+  </p>
+</div>
 
-- Speaking 中文 Deutsch English 日本語
-- Location Germany
+
