@@ -1,9 +1,9 @@
 ## F君のGitHubへようこそ～
 
 ### FKUN's Homepage
-
-<a  href="https://fkun.tech/" target="_blank" title="访问FKUN的主页">🔗https://fkun.tech/</a>
 <a  href="https://fkun.tech/" target="_blank" title="访问FKUN的主页"><img align="right" width="250px" src="https://fkun.tech/images/avatar.png"/></a>
+<a  href="https://fkun.tech/" target="_blank" title="访问FKUN的主页">🔗https://fkun.tech/</a>
+
 
 ### FKUN's Blog
 
@@ -12,6 +12,15 @@
 ### FKUN's Forum
 
 <a href="https://bbs.fkun.tech/" target="_blank" title="访问FKUN的论坛">🔗https://bbs.fkun.tech/</a>
+
+<div align="right">
+<h3>FKUN's Info </h3> 
+  <p>
+  中文 Deutsch English 日本語
+ <br>
+ Location: Germany  
+  </p>
+</div>
 
 ### FKUN's Videos
 
@@ -38,11 +47,3 @@
   <img alt="vscode" src="https://fkun.tech/img/labels/vscode.svg">
 </p>
 
-<div align="right" style="margin-top:-100px;" positon="fixed">
-<h3>FKUN's Info </h3> 
-  <p>
-  中文 Deutsch English 日本語
- <br>
- Location: Germany  
-  </p>
-</div>
