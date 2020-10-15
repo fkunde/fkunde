@@ -1,6 +1,4 @@
-## F 君の GitHub（ギットハブ）ページへようこそ～
-
-<div>
+## F君のGitHubへようこそ～
 
 ### FKUN's Homepage
 
@@ -20,7 +18,7 @@
 <p align="left">
   <a href="https://space.bilibili.com/8515147" target="_blank" title="访问FKUN的B站空间"><img src="https://fkun.tech/img/labels/bilibili.svg" alt="Bilibili"></a>
 
-<div align="right" style="margin-top:-100px;">
+<div align="right" style="margin-top:-100px;" positon="fixed">
 <h3>FKUN's Info </h3> 
   <p>
   中文 Deutsch English 日本語
@@ -41,7 +39,6 @@
 <img alt="md" src="https://fkun.tech/img/labels/Markdown.svg">
  <img alt="php" src="https://fkun.tech/img/labels/PHP74.svg">
 </p>
-<div/>
 <!-- <img align="right" style="margin-right:25px; margin-top:-40px;" width="200px" src="https://fkun.tech/img/FKUN_LOGO.svg" /> -->
 
 ### FKUN's Development Environment
