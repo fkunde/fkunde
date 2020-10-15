@@ -1,4 +1,4 @@
-## F君のGitHub（ギットハブ）ページへようこそ～
+## F 君の GitHub（ギットハブ）ページへようこそ～
 
 <div>
 
@@ -6,7 +6,6 @@
 
 <a  href="https://fkun.tech/" target="_blank" title="访问FKUN的主页">🔗https://fkun.tech/</a>
 <a  href="https://fkun.tech/" target="_blank" title="访问FKUN的主页"><img align="right" width="250px" src="https://fkun.tech/images/avatar.png"/></a>
-
 
 ### FKUN's Blog
 
@@ -31,6 +30,7 @@
 </div>
 
 ### FKUN's Programming Languages
+
 <p align="left">
   <img alt="python" src="https://fkun.tech/img/labels/py39.svg">
   <img alt="html" src="https://fkun.tech/img/labels/HTML.svg">
@@ -45,10 +45,7 @@
 <!-- <img align="right" style="margin-right:25px; margin-top:-40px;" width="200px" src="https://fkun.tech/img/FKUN_LOGO.svg" /> -->
 
 ### FKUN's Development Environment
+
 <p align="left">
   <img alt="vscode" src="https://fkun.tech/img/labels/vscode.svg">
 </p>
-
-
-
-
