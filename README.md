@@ -18,15 +18,6 @@
 <p align="left">
   <a href="https://space.bilibili.com/8515147" target="_blank" title="访问FKUN的B站空间"><img src="https://fkun.tech/img/labels/bilibili.svg" alt="Bilibili"></a>
 
-<div align="right" style="margin-top:-100px;" positon="fixed">
-<h3>FKUN's Info </h3> 
-  <p>
-  中文 Deutsch English 日本語
- <br>
- Location: Germany  
-  </p>
-</div>
-
 ### FKUN's Programming Languages
 
 <p align="left">
@@ -46,3 +37,12 @@
 <p align="left">
   <img alt="vscode" src="https://fkun.tech/img/labels/vscode.svg">
 </p>
+
+<div align="right" style="margin-top:-100px;" positon="fixed">
+<h3>FKUN's Info </h3> 
+  <p>
+  中文 Deutsch English 日本語
+ <br>
+ Location: Germany  
+  </p>
+</div>
