@@ -2,13 +2,15 @@
 
 ### FKUN's Websites
 
+<a  href="https://fkun.tech/" target="_blank" title="访问FKUN的主页"><img align="right" width="250px" src="https://fkun.tech/images/avatar.png"/></a>
+
 <p align="left">
   <a target="_blank" href="https://fkun.tech/">🔗Homepage</a> •
   <a target="_blank" href="https://blog.fkun.tech/">🔗Blog</a> •
   <a target="_blank" href="https://bbs.fkun.tech/">🔗Forum</a> 
 </p>
 
-<a  href="https://fkun.tech/" target="_blank" title="访问FKUN的主页"><img align="right" width="250px" src="https://fkun.tech/images/avatar.png"/></a>
+
 
 ### FKUN's Links
 
