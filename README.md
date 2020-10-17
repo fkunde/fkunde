@@ -1,19 +1,16 @@
 ## F君のGitHubへようこそ～
 
-### FKUN's Homepage
+### FKUN's Websites
 
-<a  href="https://fkun.tech/" target="_blank" title="访问FKUN的主页">🔗https://fkun.tech/</a>
+<p align="left">
+  <a target="_blank" href="https://fkun.tech/">🔗Homepage</a> •
+  <a target="_blank" href="https://blog.fkun.tech/">🔗Blog</a> •
+  <a target="_blank" href="https://bbs.fkun.tech/">🔗Forum</a> 
+</p>
+
 <a  href="https://fkun.tech/" target="_blank" title="访问FKUN的主页"><img align="right" width="250px" src="https://fkun.tech/images/avatar.png"/></a>
 
-### FKUN's Blog
-
-<a href="https://blog.fkun.tech/" target="_blank" title="访问FKUN的博客">🔗https://blog.fkun.tech/</a>
-
-### FKUN's Forum
-
-<a href="https://bbs.fkun.tech/" target="_blank" title="访问FKUN的论坛">🔗https://bbs.fkun.tech/</a>
-
-### FKUN's Videos
+### FKUN's Links
 
 <p align="left">
   <a href="https://space.bilibili.com/8515147" target="_blank" title="访问FKUN的B站空间"><img src="https://fkun.tech/img/labels/bilibili.svg" alt="Bilibili"></a>
@@ -36,6 +33,8 @@
 
 <p align="left">
   <img alt="vscode" src="https://fkun.tech/img/labels/vscode.svg">
+  <img alt="win10" src="https://fkun.tech/img/labels/win10.svg">
+  <img alt="iphone8" src="https://fkun.tech/img/labels/iphone8.svg">
 </p>
 
 <div align="right">
@@ -45,3 +44,4 @@
  Location: Germany  
   </p>
 </div>
+<img src="https://count.getloli.com/get/@fkun?theme=rule34" alt="fkun" />
