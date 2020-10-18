@@ -38,7 +38,6 @@
   <img alt="win10" src="https://fkun.tech/img/labels/win10.svg">
   <img alt="iphone8" src="https://fkun.tech/img/labels/iphone8.svg">
 </p>
-
 <div align="right">
   <p>
   中文 Deutsch English 日本語
