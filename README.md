@@ -20,7 +20,7 @@
 ### FKUN's Programming Languages
 
 <p align="left">
-  <img alt="python" src="https://img.shields.io/static/v1?label=Python&message=3.9&color=blue&logo=python">
+  <img alt="python" src="https://img.shields.io/static/v1?label=Python&message=3.9&color=blue&logo=python&logoColor=white">
   <img alt="html" src="http://img.shields.io/badge/-HTML-A2DC97?logo=HTML5">
   <img alt="css" src="http://img.shields.io/badge/-CSS-FFB061?logo=CSS3">
   <img alt="c++" src="http://img.shields.io/badge/-C++-59DFB9?logo=c%2B%2B">
