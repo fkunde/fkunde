@@ -24,10 +24,12 @@
   <img alt="html" src="http://img.shields.io/badge/-HTML-A2DC97?logo=HTML5">
   <img alt="css" src="http://img.shields.io/badge/-CSS-FFB061?logo=CSS3">
   <img alt="c++" src="http://img.shields.io/badge/-C++-59DFB9?logo=c%2B%2B">
+
   <br>
   
 <img alt="md" src="http://img.shields.io/badge/-Markdown-BEB088?logo=markdown">
- <img alt="php" src="https://img.shields.io/static/v1?label=PHP&message=7.4&color=6EC2CA&logo=PHP">
+ <img alt="php" src="https://img.shields.io/static/v1?label=PHP&message=7.4&color=6EC2CA&logo=PHP&logoColor=white">
+   <img alt="c++" src="http://img.shields.io/badge/-JavaScript-59DFB9?logo=javascript">
 </p>
 <!-- <img align="right" style="margin-right:25px; margin-top:-40px;" width="200px" src="https://fkun.tech/img/FKUN_LOGO.svg" /> -->
 
