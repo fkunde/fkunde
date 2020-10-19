@@ -15,7 +15,7 @@
 ### FKUN's Links
 
 <p align="left">
-  <a href="https://space.bilibili.com/8515147" target="_blank" title="访问FKUN的B站空间"><img src="https://fkun.tech/img/labels/bilibili.svg" alt="Bilibili"></a>
+  <a href="https://space.bilibili.com/8515147" target="_blank" title="访问FKUN的B站空间"><img src="http://img.shields.io/badge/dynamic/json?style=social&logo=bilibili&label=%E3%83%93%E3%83%AA%E3%83%93%E3%83%AA%E5%8B%95%E7%94%BB&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D8515147%26jsonp%3Djsonp"></a>
 
 ### FKUN's Programming Languages
 
