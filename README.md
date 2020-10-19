@@ -21,22 +21,22 @@
 
 <p align="left">
   <img alt="python" src="https://img.shields.io/static/v1?label=Python&message=3.9&color=blue&logo=python">
-  <img alt="html" src="https://fkun.tech/img/labels/HTML.svg">
-  <img alt="css" src="https://fkun.tech/img/labels/CSS.svg">
-  <img alt="c++" src="https://fkun.tech/img/labels/C++.svg">
+  <img alt="html" src="http://img.shields.io/badge/-HTML-A2DC97?logo=HTML5">
+  <img alt="css" src="http://img.shields.io/badge/-CSS-FFB061?logo=CSS3">
+  <img alt="c++" src="http://img.shields.io/badge/-C++-59DFB9?logo=C++">
   <br>
   
-<img alt="md" src="https://fkun.tech/img/labels/Markdown.svg">
- <img alt="php" src="https://fkun.tech/img/labels/PHP74.svg">
+<img alt="md" src="http://img.shields.io/badge/-Markdown-BEB088?logo=markdown">
+ <img alt="php" src="https://img.shields.io/static/v1?label=PHP&message=7.4&color=6EC2CA&logo=PHP">
 </p>
 <!-- <img align="right" style="margin-right:25px; margin-top:-40px;" width="200px" src="https://fkun.tech/img/FKUN_LOGO.svg" /> -->
 
 ### FKUN's Development Environment
 
 <p align="left">
-  <img alt="vscode" src="https://fkun.tech/img/labels/vscode.svg">
-  <img alt="win10" src="https://fkun.tech/img/labels/win10.svg">
-  <img alt="iphone8" src="https://fkun.tech/img/labels/iphone8.svg">
+  <img alt="vscode" src="http://img.shields.io/badge/-VSCode-229EFF?logo=visual-studio-code">
+  <img alt="win10" src="https://img.shields.io/static/v1?label=Windows&message=10&color=2CA2FF&logo=Windows">
+  <img alt="iphone8" src="https://img.shields.io/static/v1?label=iPhone&message=8&color=CDCDCD&logo=apple">
 </p>
 <div align="right">
   <p>
