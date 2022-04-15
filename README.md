@@ -43,7 +43,7 @@
   <img alt="vscode" src="http://img.shields.io/badge/-VSCode-229EFF?logo=visual-studio-code">
   <img alt="win10" src="https://img.shields.io/static/v1?label=Windows&message=11&color=2CA2FF&logo=Windows">
   <img alt="iphone8" src="https://img.shields.io/static/v1?label=iOS&message=15&color=CDCDCD&logo=apple">
-  <img alt="MacBookPro" src="https://img.shields.io/static/v1?label=MacOS&message=BigSur&color=CDCDCD&logo=apple">
+  <img alt="MacBookPro" src="https://img.shields.io/static/v1?label=MacOS&message=Monterey&color=CDCDCD&logo=apple">
 </p>
 <div align="right">
   <p>
